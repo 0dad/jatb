@@ -8,7 +8,7 @@ subtitle: Just Another Tech Blog
 description:
 keywords:
 author: Ian Price
-language: en
+language:
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
