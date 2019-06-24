@@ -15,3 +15,4 @@ I've found myself growing more and more lonely as time goes on, so maybe getting
 Fingers crossed!
 
 ![plant friend](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fb4%2F61%2Ffa%2Fb461fa5dc9b169838c4afaad2d8c467b--pink-nature-tumblr-image.jpg&f=1)
+>some plant friends I found on the internet
